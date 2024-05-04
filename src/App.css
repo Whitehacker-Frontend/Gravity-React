@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+.navbar-link{
+  color: rgba(48, 48, 49, 1);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.navbar-link:hover{
+  color: rgba(113, 168, 158, 1);
+}
+.red{
+  border: 2px solid red;
+}
+.heading{
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+}
+p{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 37px;
+  margin: 24px 0;
+
+
+}
+button{
+  padding: 20px 22px;
+  border-radius: 8px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  background:  rgba(113, 168, 158, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+}
